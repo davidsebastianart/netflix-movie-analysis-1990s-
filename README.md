@@ -23,7 +23,7 @@ Explore movie data from the 1990s to find insights about duration and genre usin
 
 ## 📁 Files
 - `notebook.ipynb`: Full code and analysis
-- `netflix_data.csv`: Original dataset (not uploaded due to file size/privacy)
+- `netflix_data.csv`: Original dataset
 
 ---
 ✅ Made as part of a DataCamp project
